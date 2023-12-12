@@ -25,7 +25,7 @@
 NOTE : 
 1. you might have to fork, if you are working on pre-existing project from github.
 
-2. Skip step 1 and instead use ``git clone git@github.com:username/project.git``,if you are working on pre-existing Github repo that you just forked to download a copy of the project on to your computer.
+2. Skip step 1 and step 7 and instead use ``git clone git@github.com:username/project.git``,if you are working on pre-existing Github repo that you just forked to download a copy of the project on to your computer.
 
 3. you can fork a repo by going to github repo link, clicking the ``fork`` button on top right of the page, this creates the fork/copy of the repo onto your account, then follow the said steps with this new forked repo from your account.
 
