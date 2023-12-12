@@ -22,6 +22,16 @@
 8. Paste the copied content from Git Bash Terminal into the ``Key`` Field, Click ``Add SSH Key``.
 
 ## Using Git and Github
+NOTE : 
+1. you might have to fork, if you are working on pre-existing project from github.
+
+2. Skip step 1 and instead use ``git clone git@github.com:username/project.git``,if you are working on pre-existing Github repo that you just forked to download a copy of the project on to your computer.
+
+3. you can fork a repo by going to github repo link, clicking the ``fork`` button on top right of the page, this creates the fork/copy of the repo onto your account, then follow the said steps with this new forked repo from your account.
+
+4. To contribute or merge your work on the fork to main repo, go to the main repo's link, click on the ``Pull Requests`` button next to ``Issues`` button, choose your forked repo branch on the right side, and click on ``Create Pull Request``, wait for the owner of the repo to validate your work and merge.
+
+### Contributing
 1. Open Git Bash Terminal, Type ``git init`` to make a local git repo.
    **NOTE : Use cd to Change Directory as needed.**
 2. Use your fav IDE or Text Editor to work on your code or project as needed in your project directory that you just initialised in Git Bash
@@ -40,11 +50,4 @@
 11. Now your project files are pushed to repo on Github.
 12. When working on the project next time use ``git pull`` to make sure you have the latest copy of the repo, incase others worked on it.
 
-NOTE : 
-1. you might have to fork, if you are working on pre-existing project from github.
 
-2. Skip step 1 and instead use ``git clone git@github.com:username/project.git``,if you are working on pre-existing Github repo that you just forked to download a copy of the project on to your computer.
-
-3. you can fork a repo by going to github repo link, clicking the ``fork`` button on top right of the page, this creates the fork/copy of the repo onto your account, then follow the said steps with this new forked repo from your account.
-
-4. To contribute or merge your work on the fork to main repo, go to the main repo's link, click on the ``Pull Requests`` button next to ``Issues`` button, choose your forked repo branch on the right side, and click on ``Create Pull Request``, wait for the owner of the repo to validate your work and merge.
